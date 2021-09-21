@@ -1,0 +1,12 @@
+/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
