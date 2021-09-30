@@ -1,9 +1,0 @@
-/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Domain/bin/Debug/netstandard2.0/Domain.deps.json
-/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Domain/bin/Debug/netstandard2.0/Domain.dll
-/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Domain/bin/Debug/netstandard2.0/Domain.pdb
-/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
-/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Domain/obj/Debug/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
-/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
-/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
-/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Domain/obj/Debug/netstandard2.0/Domain.dll
-/Users/coreygipson/MATC/IT-Dev-162/Corey-Gipson/Domain/obj/Debug/netstandard2.0/Domain.pdb
