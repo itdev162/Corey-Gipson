@@ -1,41 +1,34 @@
-import React from 'react';
-import './App.css';
 import axios from 'axios';
+import React from 'react';
+//import logo from './logo.svg';
+import './App.css';
 
 class App extends React.Component {
   state = {
-    posts: []
+    values: []
   }
-
+  
   componentDidMount() {
-    axios.get('http://localhost:5000/api/posts')
+    axios.get('http://localhost:5000/api/values')
     .then((response) => {
+
       this.setState({
-        posts: response.data
+        values: response.data
       })
     })
-      .catch((error) => {
-        console.error(`Error fetching data: ${error}`);
+    .catch((error) => {
+      console.error(`Error fetching data: ${error}`);
     })
   }
 
   render() {
-    const { posts } = this.state;
-
     return (
-      <div className="App">
-        <header className="App-header">
-          BlogBox
-        </header>
-        <main className="App-content">
-          {posts.map((post: any) =>
-            <div key={post.id}>
-              <h1>{post.title}</h1>
-              <p>{post.body}</p>
-            </div>
-          )}
-        </main>
-      </div>
+    <div className="App">
+      <header className="App-header">
+        BlogBox
+      </header>
+        {this.state.values.map((value: any) => <div key= {value}>{value}</div>)}
+    </div>
     );
   }
 }

@@ -1,2 +1,1 @@
-# itdev162-assignments
-
+# Corey-Gipson
