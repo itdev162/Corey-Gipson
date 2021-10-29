@@ -8,7 +8,7 @@ using Persistence;
 namespace Persistence.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20210928033933_SeedValueData")]
+    [Migration("20190923180155_SeedValueData")]
     partial class SeedValueData
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
