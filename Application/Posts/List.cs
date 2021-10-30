@@ -1,3 +1,4 @@
+
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
@@ -6,11 +7,12 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
+
 namespace Application.Posts
 {
     public class List
     {
-        public class Query : IRequest<List<Post>> {}
+        public class Query : IRequest<List<Post>> { }
 
         public class Handler : IRequestHandler<Query, List<Post>>
         {
