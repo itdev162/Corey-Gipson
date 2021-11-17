@@ -6,9 +6,11 @@ namespace Persistence
 {
     public class Seed
     {
-        public static void SeedData(DataContext context) {
-            if (context.Posts.Count() == 0) {
-                List < Post > seedPosts = new List < Post > {
+        public static void SeedData(DataContext context)
+        {
+            if (context.Posts.Count() == 0)
+            {
+                List<Post> seedPosts = new List<Post> {
                     new Post() {
                         Title = "First Post", Body = "This is the body of my first post. It will be used if there are no posts in the database."
                     },

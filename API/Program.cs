@@ -19,7 +19,7 @@ namespace API
         {
             var host = CreateWebHostBuilder(args).Build();
 
-            using(var scope = host.Services.CreateScope())
+            using (var scope = host.Services.CreateScope())
             {
                 var services = scope.ServiceProvider;
                 try
@@ -31,7 +31,7 @@ namespace API
                 catch (Exception ex)
                 {
                     var logger = services.GetRequiredService<ILogger<Program>>();
-                    logger.LogError(ex, "An Error occurred during migration.");
+                    logger.LogError(ex, "An error occurred during migration.");
                 }
             }
 
